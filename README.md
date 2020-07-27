@@ -11,20 +11,20 @@ Hi there! This is Foxerlee, a Computer Science graduate student of New York Univ
 
 #### Languages and Tools
 
-![tex.png](assets/tex.png)
-![python.png](assets/python.png)
-![javascript.png](assets/javascript.png)
-![typescript.png](assets/typescript.png)
-![ejs.png](assets/ejs.png)
-![stylus.png](assets/stylus.png)
-
-![jupyter.png](assets/jupyter.png)
-![django.png](assets/django.png)
-![react.png](assets/react.png)
-![pytorch.png](assets/pytorch.png)
-![keras.png](assets/keras.png)
-![travis.png](assets/travis.png)
-![nodejs.png](assets/nodejs.png)
+![tex.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/tex.png)
+![python.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/python.png)
+![jupyter.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/jupyter.png)
+![keras.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/keras.png)
+![javascript.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/javascript.png)
+![vscode.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/vscode.png)
+![django.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/django.png)
+![react.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/react.png)
+![pytorch.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/pytorch.png)
+![typescript.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/typescript.png)
+![stylus.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/stylus.png)
+![ejs.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/ejs.png)
+![travis.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/travis.png)
+![nodejs.png](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/nodejs.png)
 
 #### My Github States
 

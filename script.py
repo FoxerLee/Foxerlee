@@ -5,4 +5,4 @@ files = os.listdir(path)
 
 
 for file in files:
-    print("![" + file + "](assets/" + file + ")")
+    print("![" + file + "](https://raw.githubusercontent.com/Foxerlee/Foxerlee/master/assets/" + file + ")")
