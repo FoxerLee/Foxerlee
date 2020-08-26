@@ -3,8 +3,8 @@
 Hi there! This is Foxerlee, a Computer Science graduate student of New York University.
 
 - 🧐 I am studying Typescript and React.
-- 🤓 I am working on my Hexo theme -- Terran (Coming next month!)
-- 🤯 I am looking for collaborators for [Summer 2021 New Grad / Internships collection](https://github.com/FoxerLee/summer2021newGrad)
+- 🧐 I am studying NLP and Machine Learning.
+- 🤓 I am working on my Hexo theme -- Terran (Coming September!)
 - 🤩 I am writing my daily life in my [Blog](https://www.foxerlee.top/)
 - 🥳 Feel free to ask me about anything [here!](https://github.com/FoxerLee/Foxerlee/issues)
 
