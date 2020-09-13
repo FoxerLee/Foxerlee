@@ -28,9 +28,7 @@ Hi there! This is Foxerlee, a Computer Science graduate student of New York Univ
 
 #### My Github States
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Foxerlee&show_icons=true&count_private=true&hide=stars)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foxerlee&layout=compact)
+![Foxerlee's github stats](https://github-readme-stats.vercel.app/api?username=Foxerlee&show_icons=true&count_private=true&hide=stars)
 
 Source from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
