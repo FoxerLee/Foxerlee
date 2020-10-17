@@ -4,7 +4,7 @@ Hi there! This is Foxerlee, a Computer Science graduate student of New York Univ
 
 - 🧐 I am studying Typescript and React.
 - 🧐 I am studying NLP and Machine Learning.
-- 🤓 I am working on my Hexo theme -- [Terran](https://github.com/FoxerLee/hexo-theme-terran) (v0.8.1 Public!)
+- 🤓 I am working on my Hexo theme -- [Terran](https://github.com/FoxerLee/hexo-theme-terran)
 - 🤩 I am writing my daily life in my [Blog](https://www.foxerlee.top/)
 - 🥳 Feel free to ask me about anything [here!](https://github.com/FoxerLee/Foxerlee/issues)
 
