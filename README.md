@@ -1,6 +1,6 @@
 ### You Found Me! 🤪 I am [Foxerlee](https://github.com/FoxerLee)
 
-Hi there! This is Foxerlee, a Computer Science graduate student of New York University.
+Hi there! This is Foxerlee, a Software Development Engineer in Amazon Ads Team.
 
 - 🧐 I am studying Typescript and React.
 - 🧐 I am studying NLP and Machine Learning.
